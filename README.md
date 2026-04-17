@@ -12,7 +12,7 @@ Discord のボイスチャンネルに参加し、ユーザーごとの音声を
 
 ## Requirements
 
-- Node.js 18 以上
+- Node.js 22 以上
 - FFmpeg
 - Discord Bot token
 - Whisper model
